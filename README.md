@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Alexei.
 
-<!--
-**gwyn-developer/gwyn-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I love to create beatiful UI :heart:
+- I'm always open to something new :student:
+- I’m a team player :handshake:
 
-Here are some ideas to get you started:
+##### Feel free to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/alexei ovchinnikov-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alex-ovchinnikof/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/gwyn_developer-gray?style=flat-square&logo=telegram&logoColor=white)](https://t.me/gwyn_developer)
+[![Gmail Badge](https://img.shields.io/badge/ovao89@mail.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ovao89@mail.ru)](mailto:ovao89@mail.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### My contribution statistic:
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=vault-developer&show_icons=true&theme=tokyonight&hide=stars)
